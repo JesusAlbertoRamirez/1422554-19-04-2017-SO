@@ -12,6 +12,3 @@
 
 ### Ejercicio 3
 #### ps -A | tail -n +2 | wc -l
-
-
-
