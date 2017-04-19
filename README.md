@@ -2,4 +2,5 @@
 ### Jesús Alberto Ramírez Otálvaro
 ### Código: 1422554
 
-ps -A | wc -l
+export var1=$(ps -A | wc -l)
+echo $((var1 - 1))
