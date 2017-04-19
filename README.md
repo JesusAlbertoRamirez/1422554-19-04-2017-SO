@@ -3,8 +3,8 @@
 ### Código: 1422554
 
 ### Ejercicio 1
-export var1=$(ps -A | wc -l)
-\n echo $((var1 - 1))
+#### export var1=$(ps -A | wc -l)
+#### echo $((var1 - 1))
 
 ### Ejercicio 2
 #### export cuadrado=$((2**4))
